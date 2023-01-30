@@ -13,8 +13,8 @@
 3. Sachin
 
 
-###### sports watch in unordered list
+###### teams that I think, I would be good to watch play
 
 * Football
 * Tennis
-* Cricket
+* Soccer
