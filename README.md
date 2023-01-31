@@ -6,15 +6,16 @@
 ***Cricket has several advantages for both physical and mental health,*** including:  Teamwork skills, Cooperation, communication, and the ability to deal with success and failure are examples of social skills. ***A wonderful approach to meet new people*** and create friends is through social engagement.
 
 ---------
-# About favorite Sport
+# SRH is my favorite team in Cricket Sport
+### Players in SRH
 
-1. Rohit Sharma
-2. Kohli
-3. Sachin
+1. Kane Willimson
+2. Warner
+3. Bhuvi
 
 
 ###### teams that I think, I would be good to watch play
 
-* Football
-* Tennis
-* Soccer
+* Real Madrid
+* FC Barcelona
+* Argentina
