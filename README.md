@@ -20,5 +20,5 @@
 * FC Barcelona
 * Argentina
 
-The link tells 
+The link tells about the intresting things 
 [About me](AboutMe.md)
