@@ -25,3 +25,17 @@ The below are the countries that i want to visit
    *—Rose (Betty White)*
    
 >   “Someone asked me, if I were stranded on a desert island what book would I bring: ‘How to Build a Boat.’” *—Steven Wright*
+
+
+----
+## Code Fencing 
+> How to add a html header to all html pages of a folder automatically with htaccess?                                     
+
+<https://stackoverflow.com/questions/34168004/how-to-add-a-html-header-to-all-html-pages-of-a-folder-automatically-with-htacce>
+
+```
+IndexOptions FancyIndexing
+IndexOptions FoldersFirst
+IndexOptions NameWidth=*
+```
+Link to the code snippet <https://css-tricks.com/snippets/htaccess/fancy-indexing/>
